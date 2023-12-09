@@ -25,12 +25,19 @@
 </br>
 </br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bulbul-Programing&theme=algolia)
+
+
+<br/>
+
+
 ## :computer: Technologies that I know
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,firebase,express,mongodb" />
   </a>
 </p>
+
 
 ## Find me 
 <a href='https://www.facebook.com/bulbulahamed.riyad'>
