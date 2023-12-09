@@ -15,3 +15,6 @@
 <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bulbul-Programing&theme=transparent&border_radius=5.7)](https://git.io/streak-stats)
+
+## Most Used Languages
+<img src='https://api.githubtrends.io/user/svg/Bulbul-Programing/repos?time_range=one_year&group=other&theme=classic'/>
